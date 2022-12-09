@@ -21,6 +21,14 @@
     {
       "packageName": "blog-management",
       "projectFolder": "apps/blog-management"
+    },
+    {
+      "packageName": "movie-api",
+      "projectFolder": "apps/movie-api"
+    },
+    {
+      "packageName": "browserstack-test",
+      "projectFolder": "apps/browserstack-test"
     }
   ]
 }
